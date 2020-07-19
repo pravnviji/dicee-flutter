@@ -15,11 +15,9 @@ Followed londonappbrewery tutorial, created this application.
 - How to use Expanded to make widgets adapt to screen dimensions.
 - Understand and use string interpolation.
 - Learn about basic dart programming concepts such as data types and functions.
-- Code and use gesture controls.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
-Thank you Angela
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+
 
